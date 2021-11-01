@@ -10,4 +10,7 @@ print("Romance in F\u266F Major")
 print()
 
 data = ['\U0001F95A', '\U0001F414']  # <5>
-print(sorted(data))
+print("before:", data)
+print("after:", sorted(data))
+
+print('\u0A90')
