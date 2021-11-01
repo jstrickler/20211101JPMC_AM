@@ -1,0 +1,27 @@
+autocomplete
+syntax checking
+ref checking
+autoindent
+help
+spellcheck
+run and debug from editor
+plugins  (file formats, etc)
+git integration (or other SCC)
+library mgmt
+syntax highlighting (color coding)
+macros (code snippets)
+script templates
+
+IDES
+----
+PyCharm (from makers of IntelliJ)
+Visual Studio Code
+Eclipse -- Java + ???
+Spyder -- data science-oriented
+emacs -- for the insane
+
+Fewer features:
+	Sublime
+	gvim 
+	notepad++
+	atom

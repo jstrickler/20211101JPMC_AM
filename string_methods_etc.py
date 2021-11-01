@@ -41,6 +41,7 @@ raw_line = 'foo:bar:blah'
 values = raw_line.split(':')
 print(values)
 
+#  Don't split CSV data:
 #   "Smith, Joe", "Durham, NC", 27705
 
 
